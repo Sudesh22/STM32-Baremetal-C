@@ -1,14 +1,14 @@
-<svg width="880" height="947" viewBox="0 0 880 947" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="880" height="593" fill="url(#pattern0_20_33)"/>
-<rect y="593" width="880" height="354" fill="url(#pattern1_20_33)"/>
-<rect x="331" y="809" width="175" height="103" transform="rotate(-90 331 809)" fill="url(#pattern2_20_33)"/>
-<rect x="338" y="634" width="41" height="4" transform="rotate(-90 338 634)" fill="url(#pattern3_20_33)"/>
-<rect x="355.3" y="634" width="41" height="4" transform="rotate(-90 355.3 634)" fill="url(#pattern4_20_33)"/>
-<rect x="373" y="634" width="41" height="4" transform="rotate(-90 373 634)" fill="url(#pattern5_20_33)"/>
-<rect x="389" y="634" width="41" height="4" transform="rotate(-90 389 634)" fill="url(#pattern6_20_33)"/>
-<rect x="406" y="634" width="41" height="4" transform="rotate(-90 406 634)" fill="url(#pattern7_20_33)"/>
-<rect x="423" y="634" width="41" height="4" transform="rotate(-90 423 634)" fill="url(#pattern8_20_33)"/>
-<rect x="342" y="916" width="128" height="80" transform="rotate(-90 342 916)" fill="url(#pattern9_20_33)"/>
+<svg width="692" height="745" viewBox="0 0 692 745" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="692" height="466.314" fill="url(#pattern0_20_33)"/>
+<rect y="466.314" width="692" height="278.373" fill="url(#pattern1_20_33)"/>
+<rect x="260.286" y="636.168" width="137.731" height="80.9266" transform="rotate(-90 260.286 636.168)" fill="url(#pattern2_20_33)"/>
+<rect x="265.791" y="498.555" width="31.0614" height="3.26962" transform="rotate(-90 265.791 498.555)" fill="url(#pattern3_20_33)"/>
+<rect x="279.395" y="498.555" width="31.0614" height="3.26962" transform="rotate(-90 279.395 498.555)" fill="url(#pattern4_20_33)"/>
+<rect x="293.314" y="498.555" width="32.2409" height="3.14545" transform="rotate(-90 293.314 498.555)" fill="url(#pattern5_20_33)"/>
+<rect x="305.895" y="498.555" width="32.2409" height="3.14545" transform="rotate(-90 305.895 498.555)" fill="url(#pattern6_20_33)"/>
+<rect x="319.264" y="498.555" width="32.2409" height="3.14545" transform="rotate(-90 319.264 498.555)" fill="url(#pattern7_20_33)"/>
+<rect x="332.632" y="498.555" width="32.2409" height="3.14545" transform="rotate(-90 332.632 498.555)" fill="url(#pattern8_20_33)"/>
+<rect x="268.936" y="720.309" width="100.655" height="62.9091" transform="rotate(-90 268.936 720.309)" fill="url(#pattern9_20_33)"/>
 <defs>
 <pattern id="pattern0_20_33" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_20_33" transform="scale(0.00113636 0.00168634)"/>
