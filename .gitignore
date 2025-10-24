@@ -1,0 +1,16 @@
+.metadata/
+*.png
+
+**/xyz/
+**/.settings/
+**/Debug/
+**/Startup/
+
+
+
+**/*.abc
+**/*.cproject
+**/*.project
+**/*.cfg
+**/*.launch
+**/*.ld
